@@ -1,0 +1,55 @@
+
+<!ELEMENT lista  ( pais+ )>
+
+<!ELEMENT pais  ( capital , continente , img_bandeira , area , habitantes , habitantes_porKM , presidente , casos_covid , mortes_covid , moeda , hino , linguas , religioes , cidades_importantes , paises_fronteira )>
+
+<!ATTLIST pais nome CDATA #REQUIRED>
+
+<!ELEMENT capital  ( #PCDATA )>
+
+<!ELEMENT continente  ( #PCDATA )>
+
+<!ELEMENT img_bandeira  ( #PCDATA )>
+
+<!ELEMENT area  ( #PCDATA )>
+
+<!ELEMENT habitantes  ( #PCDATA )>
+
+<!ELEMENT habitantes_porKM  ( #PCDATA )>
+
+<!ELEMENT presidente  ( #PCDATA )>
+
+<!ELEMENT casos_covid  ( #PCDATA )>
+
+
+<!ELEMENT mortes_covid  ( #PCDATA )>
+
+
+<!ELEMENT moeda  ( #PCDATA )>
+
+
+<!ELEMENT hino  ( #PCDATA )>
+
+
+<!ELEMENT linguas  ( lingua* )>
+
+
+<!ELEMENT lingua  ( #PCDATA )>
+
+
+<!ELEMENT religioes  ( religiao* )>
+
+
+<!ELEMENT religiao  ( #PCDATA )>
+
+<!ELEMENT cidades_importantes  ( cidade* )>
+
+<!ELEMENT cidade  ( #PCDATA )>
+
+<!ELEMENT paises_fronteira  ( pais_fronteira* )>
+
+<!ELEMENT pais_fronteira  ( #PCDATA )>
+
+<!ATTLIST lista xmlns:xsi CDATA #IMPLIED>
+
+<!ATTLIST lista xsi:noNamespaceSchemaLocation CDATA #IMPLIED>

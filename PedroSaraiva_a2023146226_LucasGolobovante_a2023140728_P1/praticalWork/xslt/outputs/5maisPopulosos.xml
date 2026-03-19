@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paises>
+     <pais>
+          <nome>Brasil</nome>
+          <continente>América</continente>
+          <populacao>208325000</populacao>
+     </pais>
+     <pais>
+          <nome>Paquistão</nome>
+          <continente>Ásia</continente>
+          <populacao>200960000</populacao>
+     </pais>
+     <pais>
+          <nome>Russia</nome>
+          <continente>Europa</continente>
+          <populacao>143965000</populacao>
+     </pais>
+     <pais>
+          <nome>Espanha</nome>
+          <continente>Europa</continente>
+          <populacao>46449000</populacao>
+     </pais>
+     <pais>
+          <nome>Canadá</nome>
+          <continente>América</continente>
+          <populacao>36994000</populacao>
+     </pais>
+</paises>

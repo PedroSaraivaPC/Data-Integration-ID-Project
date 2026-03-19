@@ -1,0 +1,7 @@
+
+ESTATÍSTICAS GLOBAIS DOS PAÍSES: 
+
+ Total de países:  10 
+ Total de continentes:  4 
+ População total:  7.14016E8 
+ População média: 7.14016E7

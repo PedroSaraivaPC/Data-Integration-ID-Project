@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+	<xs:element name="lista">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="pais" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="continente" type="xs:string"/>
+	<xs:element name="img_bandeira" type="xs:string"/>
+	<xs:element name="area" type="xs:string"/>
+	<xs:element name="cidades_importantes">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="cidade" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="capital" type="xs:string"/>
+	<xs:element name="cidade" type="xs:string"/>
+	<xs:element name="habitantes" type="xs:string"/>
+	<xs:element name="lingua" type="xs:string"/>
+	<xs:element name="paises_fronteira">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="pais_fronteira" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="habitantes_porKM" type="xs:string"/>
+	<xs:element name="casos_covid" type="xs:string"/>
+	<xs:element name="pais">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="capital"/>
+				<xs:element ref="continente"/>
+				<xs:element ref="img_bandeira"/>
+				<xs:element ref="area"/>
+				<xs:element ref="habitantes"/>
+				<xs:element ref="habitantes_porKM"/>
+				<xs:element ref="presidente"/>
+				<xs:element ref="casos_covid"/>
+				<xs:element ref="mortes_covid"/>
+				<xs:element ref="moeda"/>
+				<xs:element ref="hino"/>
+				<xs:element ref="linguas"/>
+				<xs:element ref="religioes"/>
+				<xs:element ref="cidades_importantes"/>
+				<xs:element ref="paises_fronteira"/>
+			</xs:sequence>
+			<xs:attribute name="nome" type="xs:string" use="required"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="religioes">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="religiao" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="mortes_covid" type="xs:string"/>
+	<xs:element name="hino" type="xs:string"/>
+	<xs:element name="moeda" type="xs:string"/>
+	<xs:element name="pais_fronteira" type="xs:string"/>
+	<xs:element name="linguas">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="lingua" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="presidente" type="xs:string"/>
+	<xs:element name="religiao" type="xs:string"/>
+</xs:schema>

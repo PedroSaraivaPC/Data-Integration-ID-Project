@@ -1,0 +1,488 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lista xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="paises.xsd">
+     <pais nome="Roménia">
+          <capital>Bucareste</capital>
+          <continente>Europa</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/174.png</img_bandeira>
+          <area>238391.0</area>
+          <habitantes>19524000</habitantes>
+          <habitantes_porKM>81</habitantes_porKM>
+          <presidente>Klaus Iohannis</presidente>
+          <casos_covid>958918</casos_covid>
+          <mortes_covid>23674</mortes_covid>
+          <moeda>Leu romeno</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/174.mp3</hino>
+          <linguas>
+               <lingua>Língua romena</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Ortodoxo - 70 %</religiao>
+               <religiao>Cristianismo - 6 %</religiao>
+               <religiao>Protestantismo - 6 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Bucareste</cidade>
+               <cidade>Iaşi</cidade>
+               <cidade>Cluj-Napoca</cidade>
+               <cidade>Timişoara</cidade>
+               <cidade>Constança</cidade>
+               <cidade>Craiova</cidade>
+               <cidade>Galaţi</cidade>
+               <cidade>Braşov</cidade>
+               <cidade>Ploieşti</cidade>
+               <cidade>Brăila</cidade>
+               <cidade>Oradea</cidade>
+               <cidade>Dobreşti</cidade>
+               <cidade>Bacău</cidade>
+               <cidade>Arad</cidade>
+               <cidade>Piteşti</cidade>
+               <cidade>Sibiu</cidade>
+               <cidade>Târgu Mureş</cidade>
+               <cidade>Baia Mare</cidade>
+               <cidade>Buzău</cidade>
+               <cidade>Botoşani</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Hungria</pais_fronteira>
+               <pais_fronteira>Ucrânia</pais_fronteira>
+               <pais_fronteira>Moldávia</pais_fronteira>
+               <pais_fronteira>Bulgária</pais_fronteira>
+               <pais_fronteira>Sérvia</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Portugal">
+          <capital>Lisboa</capital>
+          <continente>Europa</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/170.png</img_bandeira>
+          <area>92230.0</area>
+          <habitantes>10287000</habitantes>
+          <habitantes_porKM>111</habitantes_porKM>
+          <presidente>Marcelo Rebelo de Sousa</presidente>
+          <casos_covid>822314</casos_covid>
+          <mortes_covid>16859</mortes_covid>
+          <moeda>euro</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/170.mp3</hino>
+          <linguas>
+               <lingua>Português</lingua>
+               <lingua>Mirandese</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Cristianismo - 97 %</religiao>
+               <religiao>Protestantismo - 1 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Lisboa</cidade>
+               <cidade>Amadora</cidade>
+               <cidade>Sintra</cidade>
+               <cidade>Seixal</cidade>
+               <cidade>Vila Nova de Gaia</cidade>
+               <cidade>Gondomar</cidade>
+               <cidade>Porto</cidade>
+               <cidade>Guimarães</cidade>
+               <cidade>Cascais</cidade>
+               <cidade>Odivelas</cidade>
+               <cidade>Loures</cidade>
+               <cidade>Coimbra</cidade>
+               <cidade>Braga</cidade>
+               <cidade>Vila Franca de Xira</cidade>
+               <cidade>Almada</cidade>
+               <cidade>Santa Maria da Feira</cidade>
+               <cidade>Matosinhos</cidade>
+               <cidade>Maia</cidade>
+               <cidade>Oeiras</cidade>
+               <cidade>Vila Nova de Famalicão</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Espanha</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Brasil">
+          <capital>Brasília</capital>
+          <continente>América</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/30.png</img_bandeira>
+          <area>8510417.771</area>
+          <habitantes>208325000</habitantes>
+          <habitantes_porKM>24</habitantes_porKM>
+          <presidente>Jair Bolsonaro</presidente>
+          <casos_covid>12839844</casos_covid>
+          <mortes_covid>325284</mortes_covid>
+          <moeda>Real</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/30.mp3</hino>
+          <linguas>
+               <lingua>Português</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Catolicismo - 80 %</religiao>
+               <religiao>Outros - 20 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>São Paulo</cidade>
+               <cidade>Campinas</cidade>
+               <cidade>Rio de Janeiro</cidade>
+               <cidade>Manaus</cidade>
+               <cidade>Belo Horizonte</cidade>
+               <cidade>Belém</cidade>
+               <cidade>Brasília</cidade>
+               <cidade>Vitória</cidade>
+               <cidade>Recife</cidade>
+               <cidade>Baixada Santista</cidade>
+               <cidade>Porto Alegre</cidade>
+               <cidade>Fortaleza</cidade>
+               <cidade>São Luís</cidade>
+               <cidade>Curitiba</cidade>
+               <cidade>Natal</cidade>
+               <cidade>Salvador</cidade>
+               <cidade>Maceió</cidade>
+               <cidade>Goiânia</cidade>
+               <cidade>Florianópolis</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Argentina</pais_fronteira>
+               <pais_fronteira>Bolívia</pais_fronteira>
+               <pais_fronteira>Colômbia</pais_fronteira>
+               <pais_fronteira>Guiana Francesa</pais_fronteira>
+               <pais_fronteira>França</pais_fronteira>
+               <pais_fronteira>Guiana</pais_fronteira>
+               <pais_fronteira>Paraguai</pais_fronteira>
+               <pais_fronteira>Peru</pais_fronteira>
+               <pais_fronteira>Suriname</pais_fronteira>
+               <pais_fronteira>Uruguai</pais_fronteira>
+               <pais_fronteira>Venezuela</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Paquistão">
+          <capital>Islamabade</capital>
+          <continente>Ásia</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/160.png</img_bandeira>
+          <area>880940.0</area>
+          <habitantes>200960000</habitantes>
+          <habitantes_porKM>228</habitantes_porKM>
+          <presidente>Arif Alvi</presidente>
+          <casos_covid>678165</casos_covid>
+          <mortes_covid>14613</mortes_covid>
+          <moeda>Rupia paquistanesa</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/160.mp3</hino>
+          <linguas>
+               <lingua>Inglês</lingua>
+               <lingua>Urdu</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Islão - 97 %</religiao>
+               <religiao>Outros - 3 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Carachi</cidade>
+               <cidade>Sargodha</cidade>
+               <cidade>Laore</cidade>
+               <cidade>Sialcote</cidade>
+               <cidade>Faiçalabade</cidade>
+               <cidade>Baaualpur</cidade>
+               <cidade>Raualpindi</cidade>
+               <cidade>Jhang</cidade>
+               <cidade>Gujranwala</cidade>
+               <cidade>Shekhupura</cidade>
+               <cidade>Multan</cidade>
+               <cidade>Gujrat</cidade>
+               <cidade>Haiderabade</cidade>
+               <cidade>Sucur</cidade>
+               <cidade>Pexauar</cidade>
+               <cidade>Larkana</cidade>
+               <cidade>Quetta</cidade>
+               <cidade>Sahiwal</cidade>
+               <cidade>Islamabade</cidade>
+               <cidade>Okara</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Índia</pais_fronteira>
+               <pais_fronteira>Afeganistão</pais_fronteira>
+               <pais_fronteira>Irão</pais_fronteira>
+               <pais_fronteira>China</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Suíça">
+          <capital>Berna</capital>
+          <continente>Europa</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/203.png</img_bandeira>
+          <area>41285.0</area>
+          <habitantes>8484000</habitantes>
+          <habitantes_porKM>205</habitantes_porKM>
+          <presidente>Simonetta Sommaruga</presidente>
+          <casos_covid>603092</casos_covid>
+          <mortes_covid>10350</mortes_covid>
+          <moeda>Franco suíço</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/203.mp3</hino>
+          <linguas>
+               <lingua>Língua alemã</lingua>
+               <lingua>Francesa</lingua>
+               <lingua>Italiano</lingua>
+               <lingua>Reto-romano</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Cristianismo - 48 %</religiao>
+               <religiao>Protestantismo - 45 %</religiao>
+               <religiao>Outros - 8 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Zurique</cidade>
+               <cidade>Genebra</cidade>
+               <cidade>Basileia</cidade>
+               <cidade>Berna</cidade>
+               <cidade>Lausanne</cidade>
+               <cidade>Winterthur</cidade>
+               <cidade>Lucerna</cidade>
+               <cidade>Lugano</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Alemanha</pais_fronteira>
+               <pais_fronteira>Áustria</pais_fronteira>
+               <pais_fronteira>Liechtenstein</pais_fronteira>
+               <pais_fronteira>Itália</pais_fronteira>
+               <pais_fronteira>França</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Canadá">
+          <capital>Ottawa</capital>
+          <continente>América</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/38.png</img_bandeira>
+          <area>9984670.0</area>
+          <habitantes>36994000</habitantes>
+          <habitantes_porKM>3</habitantes_porKM>
+          <presidente>Élisabeth II</presidente>
+          <casos_covid>994549</casos_covid>
+          <mortes_covid>22998</mortes_covid>
+          <moeda>Dólar canadense</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/38.mp3</hino>
+          <linguas>
+               <lingua>Inglês</lingua>
+               <lingua>Francesa</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Cristianismo - 67 %</religiao>
+               <religiao>Animismo - 24 %</religiao>
+               <religiao>Islão - 3 %</religiao>
+               <religiao>Outros - 2 %</religiao>
+               <religiao>Hinduísmo - 2 %</religiao>
+               <religiao>Budismo - 1 %</religiao>
+               <religiao>Judaísmo - 1 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Toronto</cidade>
+               <cidade>Montreal</cidade>
+               <cidade>Vancouver</cidade>
+               <cidade>Calgary</cidade>
+               <cidade>Ottawa</cidade>
+               <cidade>Edmonton</cidade>
+               <cidade>Winnipeg</cidade>
+               <cidade>Hamilton</cidade>
+               <cidade>Kitchener</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Estados Unidos</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Espanha">
+          <capital>Madrid</capital>
+          <continente>Europa</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/194.png</img_bandeira>
+          <area>505990.0</area>
+          <habitantes>46449000</habitantes>
+          <habitantes_porKM>91</habitantes_porKM>
+          <presidente>Felipe VI</presidente>
+          <casos_covid>3291394</casos_covid>
+          <mortes_covid>75541</mortes_covid>
+          <moeda>Euro</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/194.mp3</hino>
+          <linguas>
+               <lingua>Espanhol</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Cristianismo - 99 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Madrid</cidade>
+               <cidade>Bilbau</cidade>
+               <cidade>Barcelona</cidade>
+               <cidade>Córdova</cidade>
+               <cidade>Valência</cidade>
+               <cidade>Valladolid</cidade>
+               <cidade>Sevilha</cidade>
+               <cidade>Vigo</cidade>
+               <cidade>Saragoça</cidade>
+               <cidade>Málaga</cidade>
+               <cidade>Gijón</cidade>
+               <cidade>Múrcia</cidade>
+               <cidade>Corunha</cidade>
+               <cidade>Elche</cidade>
+               <cidade>Alicante</cidade>
+               <cidade>Granada</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Portugal</pais_fronteira>
+               <pais_fronteira>França</pais_fronteira>
+               <pais_fronteira>Andorra</pais_fronteira>
+               <pais_fronteira>Gibraltar</pais_fronteira>
+               <pais_fronteira>Reino Unido</pais_fronteira>
+               <pais_fronteira>Marrocos</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Angola">
+          <capital>Luanda</capital>
+          <continente>África</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/6.png</img_bandeira>
+          <area>1246700.0</area>
+          <habitantes>29250000</habitantes>
+          <habitantes_porKM>23</habitantes_porKM>
+          <presidente>João Lourenço</presidente>
+          <casos_covid>22399</casos_covid>
+          <mortes_covid>538</mortes_covid>
+          <moeda>Kwanza</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/6.mp3</hino>
+          <linguas>
+               <lingua>Português</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Outros - 47 %</religiao>
+               <religiao>Cristianismo - 38 %</religiao>
+               <religiao>Protestantismo - 15 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Luanda</cidade>
+               <cidade>Cabinda</cidade>
+               <cidade>Huambo</cidade>
+               <cidade>Uíge</cidade>
+               <cidade>Lobito</cidade>
+               <cidade>Tômbua</cidade>
+               <cidade>Benguela</cidade>
+               <cidade>Saurimo</cidade>
+               <cidade>Lubango</cidade>
+               <cidade>Sumbe</cidade>
+               <cidade>Lucapa</cidade>
+               <cidade>Caluquembe</cidade>
+               <cidade>Cuíto</cidade>
+               <cidade>Gabela</cidade>
+               <cidade>Malanje</cidade>
+               <cidade>Caxito</cidade>
+               <cidade>Moçâmedes</cidade>
+               <cidade>Longonjo</cidade>
+               <cidade>Soyo</cidade>
+               <cidade>Mabanza Congo</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>República do Congo</pais_fronteira>
+               <pais_fronteira>República Democrática do Congo</pais_fronteira>
+               <pais_fronteira>Zâmbia</pais_fronteira>
+               <pais_fronteira>Namíbia</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Hungria">
+          <capital>Budapeste</capital>
+          <continente>Europa</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/95.png</img_bandeira>
+          <area>93030.0</area>
+          <habitantes>9778000</habitantes>
+          <habitantes_porKM>105</habitantes_porKM>
+          <presidente>János Áder</presidente>
+          <casos_covid>661721</casos_covid>
+          <mortes_covid>20995</mortes_covid>
+          <moeda>Florim húngaro</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/95.mp3</hino>
+          <linguas>
+               <lingua>Húngaro</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Cristianismo - 68 %</religiao>
+               <religiao>Protestantismo - 25 %</religiao>
+               <religiao>Outros - 8 %</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Budapeste</cidade>
+               <cidade>Szolnok</cidade>
+               <cidade>Debrecen</cidade>
+               <cidade>Tatabánya</cidade>
+               <cidade>Miskolc</cidade>
+               <cidade>Kaposvár</cidade>
+               <cidade>Szeged</cidade>
+               <cidade>Békéscsaba</cidade>
+               <cidade>Pécs</cidade>
+               <cidade>Érd</cidade>
+               <cidade>Veszprém</cidade>
+               <cidade>Nyíregyháza</cidade>
+               <cidade>Zalaegerszeg</cidade>
+               <cidade>Kecskemét</cidade>
+               <cidade>Sopron</cidade>
+               <cidade>Székesfehérvár</cidade>
+               <cidade>Eger</cidade>
+               <cidade>Szombathely</cidade>
+               <cidade>Nagykanizsa</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Áustria</pais_fronteira>
+               <pais_fronteira>Croácia</pais_fronteira>
+               <pais_fronteira>Eslováquia</pais_fronteira>
+               <pais_fronteira>Eslovênia</pais_fronteira>
+               <pais_fronteira>Romênia</pais_fronteira>
+               <pais_fronteira>Sérvia</pais_fronteira>
+               <pais_fronteira>Ucrânia</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+     <pais nome="Russia">
+          <capital>asdasd</capital>
+          <continente>Europa</continente>
+          <img_bandeira>https://dwpt1kkww6vki.cloudfront.net/img/drapeau/120/175.png</img_bandeira>
+          <area>1000000</area>
+          <habitantes>143965000</habitantes>
+          <habitantes_porKM>8</habitantes_porKM>
+          <presidente>Vladimir Poutine</presidente>
+          <casos_covid>4503291</casos_covid>
+          <mortes_covid>97594</mortes_covid>
+          <moeda>Rublo</moeda>
+          <hino>https://db-city.s3.amazonaws.com/anthem/175.mp3</hino>
+          <linguas>
+               <lingua>Russo</lingua>
+          </linguas>
+          <religioes>
+               <religiao>Ortodoxo - 67 %</religiao>
+               <religiao>Ateísmo - 23 %</religiao>
+               <religiao>Islão - 7 %</religiao>
+               <religiao>Protestantismo - 2 %</religiao>
+               <religiao>abc</religiao>
+          </religioes>
+          <cidades_importantes>
+               <cidade>Ufa</cidade>
+               <cidade>São Petersburgo</cidade>
+               <cidade>Volgogrado</cidade>
+               <cidade>Novosibirsk</cidade>
+               <cidade>Perm</cidade>
+               <cidade>Ecaterimburgo</cidade>
+               <cidade>Krasnoiarsk</cidade>
+               <cidade>Nijni Novgorod</cidade>
+               <cidade>Voronej</cidade>
+               <cidade>Samara</cidade>
+               <cidade>Saratov</cidade>
+               <cidade>Cazã</cidade>
+               <cidade>Togliatti</cidade>
+               <cidade>Omsk</cidade>
+               <cidade>Krasnodar</cidade>
+               <cidade>Tcheliabinsk</cidade>
+               <cidade>Ijevsk</cidade>
+               <cidade>Rostov do Don</cidade>
+               <cidade>Iaroslavl</cidade>
+          </cidades_importantes>
+          <paises_fronteira>
+               <pais_fronteira>Noruega</pais_fronteira>
+               <pais_fronteira>Finlândia</pais_fronteira>
+               <pais_fronteira>Estónia</pais_fronteira>
+               <pais_fronteira>Letónia</pais_fronteira>
+               <pais_fronteira>Lituânia</pais_fronteira>
+               <pais_fronteira>Bielorrússia</pais_fronteira>
+               <pais_fronteira>Polónia</pais_fronteira>
+               <pais_fronteira>Ucrânia</pais_fronteira>
+               <pais_fronteira>Geórgia</pais_fronteira>
+               <pais_fronteira>Azerbaijão</pais_fronteira>
+               <pais_fronteira>Cazaquistão</pais_fronteira>
+               <pais_fronteira>República Popular da China</pais_fronteira>
+               <pais_fronteira>Mongólia</pais_fronteira>
+               <pais_fronteira>Coreia do Norte</pais_fronteira>
+          </paises_fronteira>
+     </pais>
+</lista>

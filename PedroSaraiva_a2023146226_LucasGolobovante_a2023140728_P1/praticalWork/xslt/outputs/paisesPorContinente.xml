@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paisesPorContinente>
+     <continente nome="Europa">
+          <pais>Roménia</pais>
+          <pais>Portugal</pais>
+          <pais>Suíça</pais>
+          <pais>Espanha</pais>
+          <pais>Hungria</pais>
+          <pais>Russia</pais>
+     </continente>
+     <continente nome="América">
+          <pais>Brasil</pais>
+          <pais>Canadá</pais>
+     </continente>
+     <continente nome="Ásia">
+          <pais>Paquistão</pais>
+     </continente>
+     <continente nome="África">
+          <pais>Angola</pais>
+     </continente>
+</paisesPorContinente>
